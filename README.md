@@ -6,9 +6,6 @@ Bem-vindo ao Decor Home Event, um projeto para promover um evento de decoração
 
 O Decor Home Event é um projeto web construído com React.js para promover um evento de decoração de interiores. Ele apresenta informações sobre o evento, os benefícios, a localização e os detalhes relevantes.
 
-## Demonstração
-
-Inclua uma captura de tela ou GIF animado mostrando a aparência do seu projeto. Isso pode ser útil para dar aos visitantes do seu perfil no LinkedIn uma rápida visão geral do projeto.
 
 ## Tecnologias Utilizadas
 
@@ -44,8 +41,11 @@ Se você quiser contribuir para o projeto, siga estas etapas:
 
 Faça um fork do projeto.
 Crie uma branch para a sua feature (git checkout -b feature/MinhaFeature).
+
 Faça commit das suas alterações (git commit -m 'Adiciona alguma funcionalidade').
+
 Faça push para a branch (git push origin feature/MinhaFeature).
+
 Abra um Pull Request.
-Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
+
+
