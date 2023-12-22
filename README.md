@@ -1,51 +1,36 @@
-# Decor Home Event
+Projeto Decor Home - Atualizado para React.js
+Bem-vindo ao projeto Decor Home, uma aplicação web dedicada à evolução e criatividade no design de interiores. Este projeto passou por uma significativa atualização, migrando de HTML e CSS para React.js, a fim de oferecer uma experiência mais dinâmica e eficiente.
 
-Bem-vindo ao Decor Home Event, um projeto para promover um evento de decoração de interiores.
+Sobre o Projeto
+O objetivo principal desta atualização foi modernizar a base tecnológica, adotando as práticas mais recentes de desenvolvimento front-end. A mudança para React.js proporcionou benefícios como modularidade, reutilização de componentes e uma arquitetura mais organizada.
 
-## Descrição
+Principais Recursos
+Componentes Reutilizáveis: A aplicação foi reestruturada em componentes React, facilitando a manutenção e promovendo a reutilização de código.
 
-O Decor Home Event é um projeto web construído com React.js para promover um evento de decoração de interiores. Ele apresenta informações sobre o evento, os benefícios, a localização e os detalhes relevantes.
+Responsividade Aprimorada: A interface foi otimizada para garantir uma experiência consistente em diferentes dispositivos e tamanhos de tela.
 
+Estilização Moderna: As folhas de estilo foram refinadas para seguir as tendências de design mais recentes, proporcionando uma estética visualmente atraente.
 
-## Tecnologias Utilizadas
+Integração com React.js: A migração para React oferece uma base sólida para o desenvolvimento futuro, possibilitando a incorporação de funcionalidades mais avançadas.
 
-- React.js
-- CSS (módulos CSS para estilos)
-- HTML
-
-## Como Executar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/decor-home-event.git
-Navegue até o diretório do projeto:
+Como Iniciar
+Clonagem do Repositório:
 
 bash
 Copy code
-cd decor-home-event
-Instale as dependências:
+git clone https://github.com/seu-usuario/decor-home-react.git
+Instalação de Dependências:
 
 bash
 Copy code
+cd decor-home-react
 npm install
-Inicie o aplicativo:
+Execução Local:
 
 bash
 Copy code
 npm start
-O aplicativo estará disponível em http://localhost:3000.
+Acesse a aplicação em http://localhost:3000.
 
-Contribuindo
-Se você quiser contribuir para o projeto, siga estas etapas:
-
-Faça um fork do projeto.
-Crie uma branch para a sua feature (git checkout -b feature/MinhaFeature).
-
-Faça commit das suas alterações (git commit -m 'Adiciona alguma funcionalidade').
-
-Faça push para a branch (git push origin feature/MinhaFeature).
-
-Abra um Pull Request.
-
-
+Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorias.
