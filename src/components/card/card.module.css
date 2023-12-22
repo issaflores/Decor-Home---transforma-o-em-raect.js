@@ -1,0 +1,48 @@
+
+
+/* card form */
+#card-subscription {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+      url("/image/cara1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: var(--text-color);
+  }
+
+  
+  #disclaimer h2,
+  #disclaimer .card-date {
+    color: var(--primary);
+
+    
+  }
+  
+  #disclaimer h2 {
+    font-size: 3em;
+    
+    
+  }
+  
+  #disclaimer .about-card {
+    font-size: 3em;
+    text-transform: uppercase;
+    max-width: 350px;
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
+  
+  #disclaimer p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+  
+  #disclaimer .card-date {
+    font-size: 1.5em;
+    
+}
+  
+ 
